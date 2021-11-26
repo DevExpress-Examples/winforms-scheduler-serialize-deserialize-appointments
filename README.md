@@ -6,4 +6,4 @@
 
 # How-to-serialize-and-deserialize-appointments-in-SchedulerControl
 
-This example demonstrates how to serialize and deserialize appointments in SchedulerControl using the [AppointmentXmlPersistenceHelper](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraScheduler.Xml.AppointmentXmlPersistenceHelper) class.
+This example demonstrates how to serialize and deserialize appointments in SchedulerControl using the [AppointmentXmlPersistenceHelper](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraScheduler.Xml.AppointmentXmlPersistenceHelper) class. 
