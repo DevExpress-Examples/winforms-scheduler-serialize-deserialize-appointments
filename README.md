@@ -12,6 +12,6 @@
 * [Program.cs](./CS/DXApplication1/Program.cs) (VB: [Program.vb](./VB/DXApplication1/Program.vb))
 <!-- default file list end -->
 
-# How-to-serialize-and-deserialize-appointments-in-SchedulerControl
+# How to serialize and deserialize appointments in SchedulerControl
 
 This example demonstrates how to serialize and deserialize appointments in SchedulerControl using the [AppointmentXmlPersistenceHelper](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraScheduler.Xml.AppointmentXmlPersistenceHelper) class. 
