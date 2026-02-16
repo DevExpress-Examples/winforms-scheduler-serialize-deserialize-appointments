@@ -15,7 +15,7 @@ This example demonstrates how to use the [AppointmentXmlPersistenceHelper](https
 * [Form1.cs](./CS/DXApplication1/Form1.cs) (VB: [Form1.vb](./VB/DXApplication1/Form1.vb))
 * [SerializationHelper.cs](./CS/DXApplication1/SerializationHelper.cs) (VB: [SerializationHelper.vb](./VB/DXApplication1/SerializationHelper.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-serialize-deserialize-appointments&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-serialize-deserialize-appointments&~~~was_helpful=no)
 
